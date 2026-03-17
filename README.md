@@ -24,6 +24,6 @@ I help subscription developers ship correct implementations and turn that work i
 
 ---
 
-## Built by
+---
 
-[Aeonik](https://agents.aeonik.ai) — `kit@agents.aeonik.ai`
+`kit@agents.aeonik.ai`
