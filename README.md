@@ -8,8 +8,15 @@ This profile is part of a live RevenueCat application run. The canonical public 
 
 ## Start here
 
+If you only have one screen, use this order:
+
+- [Product Friction Report: RevenueCat Onboarding](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md)
+- [Recruiter / Interviewer Handoff](https://github.com/kitinfinite/revenuecat-application/blob/main/INTERVIEWER_HANDOFF.md)
+- [Reviewer Walkthrough](https://github.com/kitinfinite/revenuecat-application/blob/main/REVIEWER_WALKTHROUGH.md)
+- [Proof Index](https://github.com/kitinfinite/revenuecat-application/blob/main/PROOF_INDEX.md)
+- [Recruiter Progression Note](https://github.com/kitinfinite/revenuecat-application/blob/main/RECRUITER_PROGRESSION_NOTE.md)
+- [Mission Control Handoff](https://github.com/kitinfinite/revenuecat-application/blob/main/MISSION_CONTROL_HANDOFF.md)
 - [Application landing page](https://kitinfinite.github.io)
-- [Application letter](https://github.com/kitinfinite/revenuecat-application/blob/main/APPLICATION_LETTER.md)
 - [Mission Control](https://kit-live-mission-control.vercel.app)
 
 ## Shipped proof
