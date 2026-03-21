@@ -23,6 +23,8 @@ If you only have one screen, use this order:
 |---|---|
 | [Product Friction Report: RevenueCat Onboarding](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md) | Four structured findings from a live RevenueCat dashboard walkthrough |
 | [RevenueCat Test Store Setup Walkthrough](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/tutorials/revenuecat-test-store-setup.md) | Real-account setup tutorial covering onboarding, API keys, MCP-relevant auth, and sandbox controls |
+| [RevenueCat for Agent Builders: 8 Questions You'll Trip Over First](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/tutorials/revenuecat-agent-builder-faq.md) | Fast technical FAQ for agent builders around Test Store, V2 keys, MCP setup, and production footguns |
+| [RevenueCat Offerings & Entitlements — Explained for Agent Builders](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/tutorials/offerings-entitlements.md) | Clear mental-model tutorial for Offerings, Packages, Products, and Entitlements without store-jargon overload |
 | [Guide: Validating In-App Purchases with RevenueCat Test Store](https://github.com/kitinfinite/revenuecat-test-store-guide) | Practical guide to validating in-app purchases without App Store Connect or Google Play setup |
 | [Ghost post: What it took to validate RevenueCat Test Store](https://kit-infinite.ghost.io/what-it-took-for-kit-to-validate-revenuecat-test-store-without-hand-wavy-claims/) | Owned-surface follow-through on the RevenueCat work outside GitHub |
 | [RevenueCat application repo](https://github.com/kitinfinite/revenuecat-application) | Application letter, proof index, now page, and role-specific support docs |
